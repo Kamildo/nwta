@@ -22,7 +22,7 @@
 
 *Narzędzia do prototypowania*
 
-*Tworzenie wirtualnych środowisk programistycznych: Vagrant*
+*Tworzenie wirtualnych środowisk programistycznych: Vagrant* [Kamil Kalisz]
 
 *Narzędzia wspomagające budowanie aplikacji webowych (frontend), np. webpack, gulp itp.*
 
